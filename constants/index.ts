@@ -18,32 +18,32 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'Peta yang sebenarnya bisa offline',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'Kami memberikan solusi untuk anda agar bisa menggunakan aplikasi kami saat pendakian, ya peta offline yang bisa anda gunakan sewaktu-waktu tidak ada sinyal di lokasi',
     },
     {
-      title: 'Set an adventure schedule',
+      title: 'Tetapkan jadwal petualangan',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Jadwalkan petualangan bersama teman-teman. Di hari libur, ada banyak penawaran menarik dari Hilink. Dengan begitu, tidak ada lagi diskusi",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Teknologi yang menggunakan augmented reality',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+        'Teknologi ini menggunakan augmented reality sebagai pemandu jalur pendakian Anda di dalam hutan menuju puncak gunung. Sudah didukung oleh teknologi terbaru tanpa koneksi internet',
     },
     {
-      title: 'Many new locations every month',
+      title: 'Banyak lokasi baru setiap bulannya',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+        'Banyak lokasi baru setiap bulannya, karena kami memiliki komunitas pendaki di seluruh dunia yang berbagi pengalaman terbaik mereka dalam mendaki',
     },
   ];
   

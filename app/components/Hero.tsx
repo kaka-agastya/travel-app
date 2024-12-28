@@ -15,11 +15,7 @@ const Hero = () => {
       height={50}
       className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"/>
       <h1 className="bold-52 lg:bold-88">Surabaya Camp Area</h1>
-      <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-        We want to be on each of your journeys seeking 
-        the satisfaction of seeing the incorruptible beauty of nature. 
-        We can help you
-        on an adventure around the world in just one app.
+      <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">Kami ingin berada di setiap perjalanan Anda untuk mencari kepuasan melihat keindahan alam yang tak lekang oleh waktu. Kami dapat membantu Andadalam petualangan keliling dunia hanya dalam satu aplikasi.
       </p>
 
       <div className="my-11 flex flex-wrap gap-5">
@@ -35,21 +31,21 @@ const Hero = () => {
         </div>
 
         <p className="bold-16 lg:bold-20 text-blue-70">
-          198k
+          198 Ribu
           <span className="regular-16 lg:regular-20 ml-1
-          ">Excellent Reviews</span>
+          ">Ulasan Sempurna</span>
         </p>
       </div>
 
       <div className="flex flex-col w-full gap-3 sm:flex-row">
           <Button 
           type="button" 
-          title="Download App" 
+          title="Unduh Aplikasi" 
           variant="btn_green"
           />
           <Button 
           type="button" 
-          title="How we work?" 
+          title="Bagaimana cara kerjanya?" 
           icon="/play.svg"
           variant="btn_white_text"
           />
@@ -57,7 +53,7 @@ const Hero = () => {
     </div>
 
     <div className="relative flex flex-1 items-start">
-        <div className="relative z-20 w-[268px] flex-col gap-8
+        <div className="relative z-20 flex w-[268px] flex-col gap-8
         rounded-3xl bg-green-90 px-7 py-8">
           <div className="flex flex-col">
             <div className="flexBetween">
@@ -71,6 +67,10 @@ const Hero = () => {
               <div className="flex flex-col">
                 <p className="regular-16 block text-gray-20">Distance</p>
                 <p className="bold-20 text-white">173.28 mi</p>
+              </div>
+              <div className="flex flex-col">
+                <p className="regular-16 block text-gray-20">Elevation</p>
+                <p className="bold-20 text-white">2.040 km</p>
               </div>
             </div>
         </div>

@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "Travel",
+  title: "Hilink",
   description: "Travel UI/UX App for Camping",
 };
 
